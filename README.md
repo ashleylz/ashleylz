@@ -31,7 +31,7 @@ Git, Linux, SQLite, AWS Lambda, DynamoDB, Visual Studio Code, Figma
 
 ### 🧠 Computer Systems Fundamentals  
 > Explored systems-level programming through C and x86 assembly. Studied memory hierarchy, cache performance, buffer overflow protection, and more.  
-> *Tech:* C, x86 Assembly, Linux, GDB  
+> *Tech:* C, C++, x86 Assembly, Linux, GDB  
 > [Private Repo](https://github.com/ashleylz/csf-2024-fall)
 
 ---
