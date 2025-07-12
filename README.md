@@ -52,7 +52,7 @@ Git, Linux, SQLite, AWS Lambda, DynamoDB, Visual Studio Code, Figma
 
 ## 📫 Get in Touch
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashley-zhang-lya)
+- [LinkedIn](https://www.linkedin.com/in/ashley-zhang-lya)
 - ✉️ Email: azhang68@jh.edu  
 
 ---
