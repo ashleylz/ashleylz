@@ -44,8 +44,7 @@ Git, Linux, SQLite, AWS Lambda, DynamoDB, Visual Studio Code, Figma
 
 ## 🎨 More About Me
 
-- 🏊 **Captain** of the Johns Hopkins Club Swim Team  
-- ⚙️ **Tech Lead** in Theta Tau, the professional engineering fraternity  
+- ⚙️ **Tech Lead** of Theta Tau at Johns Hopkins  
 - 🎨 10+ years of experience in traditional and digital art
 
 ---
