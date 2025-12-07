@@ -22,7 +22,7 @@ Git, Linux, SQLite, AWS Lambda, DynamoDB, Visual Studio Code, Figma
 ### 🔭 Break Through Tech AI/ML Fellowship  
 > Part of a nationwide cohort learning ML through hands-on labs, Python tooling, and collaborative AI projects.  
 > *Focus:* Supervised/unsupervised learning, model evaluation, and upcoming product development.  
-> 📌 *Fall Studio project coming soon — stay tuned!*
+> [Anote 1B](https://github.com/anote-ai/btt-anote1b)
 
 ### 🗒️ Flashcards Web Application  
 > Built a full-stack study tool with deck/card creation, search, filtering, and authentication.  
